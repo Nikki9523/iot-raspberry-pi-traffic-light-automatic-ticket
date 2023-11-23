@@ -18,13 +18,13 @@ My project will explore an automatic ticketing system using a toy car, raspberry
 9. If toy car does not move onto or passed load sensor nothing happens
 
 ## Tools, Technologies and Equipment
-Python
-Raspberry Pi
-Raspberry Pi Camera Module
-Raspberry Pi Load Cell to accurately detect toy car
-Colour Phillips hue bulb to represent the traffic lights
-Toy car
-Thingspeak
+- Python
+- Raspberry Pi
+- Raspberry Pi Camera Module
+- Raspberry Pi Load Cell to accurately detect toy car
+- Colour Phillips hue bulb to represent the traffic lights
+- Toy car
+- Thingspeak
 
 ## Project Repository
 https://github.com/Nikki9523/iot-raspberry-pi-traffic-light-automatic-ticket
