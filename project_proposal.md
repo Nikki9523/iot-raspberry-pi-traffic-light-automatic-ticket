@@ -1,5 +1,5 @@
-# Project Name
-Automatic ticketing system for breaking red lights
+# Automatic ticketing system for breaking red lights
+
 #### Student Name: Nicola Stack   Student ID: 13373226
 
 Lately in Galway I've noticed more and more people breaking red lights. 
