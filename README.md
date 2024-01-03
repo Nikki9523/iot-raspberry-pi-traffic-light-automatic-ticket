@@ -14,7 +14,9 @@ Note: Currently movement is detected when senseHAT is moved. Future iteration wi
 
 
 ### Tools and Technologies Used
-Raspberry Pi 4, SenseHAT & PiCamera module 3
-Glitch
-Python
-Firebase
+1.Raspberry Pi 4 
+2. SenseHAT
+3. PiCamera module 3
+4. Glitch
+5. Python
+6. Firebase
