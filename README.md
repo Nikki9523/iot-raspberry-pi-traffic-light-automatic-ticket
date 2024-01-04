@@ -1,6 +1,6 @@
-# Project Title
+# IOT Project to detect vehicles breaking red lights
 
-IOT Project to detect vehicles breaking red lights. Run using lightControl.py. As script runs green, orange and red light will display on SenseHAT led lights.
+Run using lightControl.py. As script runs green, orange and red light will display on SenseHAT led lights.
 If movement is detected while light is red then an image will be captured with PiCamera module3 and pushed to Firebase.
 Latest captured image is displayed on glitch site.
 
@@ -14,7 +14,7 @@ Note: Currently movement is detected when senseHAT is moved. Future iteration wi
 
 
 ### Tools and Technologies Used
-1.Raspberry Pi 4 
+1. Raspberry Pi 4
 2. SenseHAT
 3. PiCamera module 3
 4. Glitch
